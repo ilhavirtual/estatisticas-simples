@@ -2,7 +2,7 @@
 public class EstatisticasSimples {
 
 	public static double calculaValorMinimo(double[] valoresDeEntrada) {
-		return 0;
+		return -1;
 	}
 
 	public static double calculaValorMaximo(double[] valoresDeEntrada) {
